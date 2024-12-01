@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diniru Banuka</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinirubanuka&label=Profile%20views&color=0e75b6&style=flat" alt="dinirubanuka" /> </p>
+<p align="left"> 
+  <h3 align="center">Aspiring Software Engineer | Proficient in C++, Spring Boot ,Express, Node.js,Cryptography and Functional Programming| Passionate about Innovative Solutions</h3>
+<img src="https://komarev.com/ghpvc/?username=dinirubanuka&label=Profile%20views&color=0e75b6&style=flat" alt="dinirubanuka" /> </p>
 
 - 🔭 I’m currently working on [Thahawuru - තහවුරු](https://github.com/Thahawuru)
 
